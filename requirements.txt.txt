@@ -1,0 +1,9 @@
+requests
+colorama
+pystyle
+platform
+os
+time
+string
+random
+socket
